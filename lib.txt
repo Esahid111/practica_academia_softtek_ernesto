@@ -1,2 +1,3 @@
 Crado desde task 
-import libs
+import * libs
+
